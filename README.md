@@ -1,6 +1,6 @@
 # learn-clojure
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to learn clojure intermediate concepts.
 
 ## Usage
 
